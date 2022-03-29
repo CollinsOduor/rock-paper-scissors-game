@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Overlay renders correctly 1`] = `
+<div
+  className="Overlay-sc-18ugkme-0 hEIcxU"
+/>
+`;

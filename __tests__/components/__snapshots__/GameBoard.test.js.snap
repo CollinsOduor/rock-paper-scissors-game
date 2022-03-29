@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameBoard renders correctly 1`] = `
+<div
+  className="GameBoard-sc-1vv6n9a-0 iwoovP"
+/>
+`;

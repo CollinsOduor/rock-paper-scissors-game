@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainBody renders correctly 1`] = `
+<div
+  className="MainBody-sc-fjt0dg-0 kvHRNA"
+/>
+`;

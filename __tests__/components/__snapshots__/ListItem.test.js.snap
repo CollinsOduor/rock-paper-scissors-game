@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem renders correctly 1`] = `
+<li
+  className="ListItem-sc-1qu4akk-0 ksotFj"
+/>
+`;
