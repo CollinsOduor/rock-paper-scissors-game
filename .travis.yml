@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+  - "16.1.0"
+
+script:
+  - echo "Installing deps..."
+  - npm i
+  - echo "Installed deps successfully"
+  - echo "Building..."
+  - npm run build --verbose
+  - echo "Built project successfully"
+  - echo "Running tests..."
+  - npm run test
+  - echo "Tests completed successfully"
