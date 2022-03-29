@@ -104,6 +104,8 @@ export default function Home() {
                 alignItems: "center",
                 justifyContent: "center",
                 rowGap: "2vh",
+                textAlign: "center",
+                width: "30%",
               }}
             >
               You picked
@@ -129,6 +131,8 @@ export default function Home() {
                 alignItems: "center",
                 justifyContent: "center",
                 rowGap: "2vh",
+                textAlign: "center",
+                width: "30%",
               }}
             >
               You{" "}
@@ -154,6 +158,8 @@ export default function Home() {
                 alignItems: "center",
                 justifyContent: "center",
                 rowGap: "2vh",
+                textAlign: "center",
+                width: "30%",
               }}
             >
               The House picked

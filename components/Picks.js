@@ -6,4 +6,6 @@ export const Picks = styled.div`
   align-items: center;
   column-gap: 5vw;
   height: 50vh;
+  color: #ffffff;
+  width: fit-content;
 `;
